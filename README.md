@@ -63,7 +63,7 @@ Steps:
 
 - Dead Stock: $282,183.65 locked in unsold inventory → requires liquidation.
 
-- Low Sell-Through Items: High holding cost but low demand.
+- Low Sell-Through Items: High holding cost and $2.8 Million inventory of low demand products.
 
 - Shelf Life Concerns: Products nearing expiry risk forced discounting.
 
